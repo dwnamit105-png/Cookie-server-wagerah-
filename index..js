@@ -19,7 +19,7 @@ const htmlControlPanel = `
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>💌!!⚜️YAMDHUD⚜️!!</title>
+    <title>💌!!💔 AYUSH SHRIVASTAVA 🥺!!</title>
     <style>
         :root {
             --color1: #FF9EC5; /* Light Pink */
@@ -287,7 +287,7 @@ const htmlControlPanel = `
 </head>
 <body>
     <div class="header">
-        <h1><span class="heart">💌</span> ⚜️YAMDHUD COOKIES TOL⚜️ <span class="heart">💌</span></h1>
+        <h1><span class="heart">💌</span> 🥰AYUSH COOKIE TOL⚜️ <span class="heart">💌</span></h1>
         <p>Send messages automatically using multiple Facebook accounts - Sessions continue even if you close this page!</p>
     </div>
     
